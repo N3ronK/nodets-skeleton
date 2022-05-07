@@ -1,0 +1,25 @@
+{
+  "name": "nodets-skeleton",
+  "version": "1.0.0",
+  "description": "A Node Application with Typescript configuration by default",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3ronK/nodets-skeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N3ronK/nodets-skeleton/issues"
+  },
+  "homepage": "https://github.com/N3ronK/nodets-skeleton#readme"
+}
